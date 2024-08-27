@@ -16,7 +16,7 @@
 
 .sidebar{
 
-    background-image: url();
+    background-image: url("/static/autenticacao/img/fundo_background.png");
 
 }
 
@@ -38,7 +38,7 @@
 
 .input-form{
     margin-top: 15px;
-    width: 100%;
+    width: 80%;
     padding: 5px;
     outline: 0;
 
